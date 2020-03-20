@@ -1,8 +1,14 @@
-# hello-world
+# vue后台模板
 
 ## Project setup
 ```
 yarn install
+```
+
+## 使用vue图形画界面
+
+```
+vue ui
 ```
 
 ### Compiles and hot-reloads for development
